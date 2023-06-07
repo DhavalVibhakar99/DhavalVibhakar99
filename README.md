@@ -7,8 +7,8 @@
 
 
 ### A little more about me...
-
-Engineer specializing in Data Science, Data Analysis, Machine Learning, Big Data, and Cloud Computing with expertise in Python, R, SQL, and Tableau. I am motivated by entrepreneurship and business development.
+Aspiring Data Science professional with passion for uncovering insights from large data sets and implementing new data-driven strategies. IT graduate with excellent problem solving, interpersonal and communication skill available for every entry level opportunity.
+Engineer specializing in Data Science, Data Analysis, Big Data, and Cloud Computing with expertise in Python, R, SQL, and Tableau. I am motivated by entrepreneurship and business development.
 
 
 
