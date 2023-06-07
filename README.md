@@ -1,4 +1,4 @@
-<h2> Hi, I'm Dhaval Vibhakar! </h2> <img align='right' src="" width="230">
+<h2> Hi, I'm Dhaval Vibhakar! </h2> <img align='right' src="https://github.com/DhavalVibhakar99/DhavalVibhakar99/blob/main/giphy%20(1).gif" width="230">
 
 <p><em>Master of Science in Information Systems at <a href="https://www.pace.edu">Pace University</a>
 </em></p>
