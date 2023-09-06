@@ -3,7 +3,7 @@
 <p><em>Master of Science in Information Systems at <a href="https://www.pace.edu">Pace University</a>
 </em></p>
 
-<a href="https://www.linkedin.com/in/dhavalvibhakar99"> <img src="https://img.shields.io/badge/-Dhaval Vibhakar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhavalvibhakar99"></a> <a href="mailto:dhaval.a.vibhakar@pace.edu?body=Hi, I'm Dhaval Vibhakar and thank you for reaching out to me! Please type your message below this line."> <img src="https://img.shields.io/badge/-E--mail-red?style=flat&logo=maildotru&logoColor=white"></a> <a href=""> <img src="https://img.shields.io/badge/-WhatsApp-green?style=flat&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dhavalvibhakar99"> <img src="https://img.shields.io/badge/-Dhaval Vibhakar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhavalvibhakar99"></a> <a href="mailto:dhaval.a.vibhakar@pace.edu?body=Hi, I'm Dhaval Vibhakar and thank you for reaching out to me! Please type your message below this line."> <img src="https://img.shields.io/badge/-E--mail-red?style=flat&logo=maildotru&logoColor=white"></a>
 
 
 ### A little more about me...
