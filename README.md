@@ -1,32 +1,65 @@
-<h2> Hi, I'm Dhaval Vibhakar! </h2> <img align='right' src="https://github.com/DhavalVibhakar99/DhavalVibhakar99/blob/main/giphy%20(1).gif" width="230">
+# Hi there, I'm Dhaval Vibhakar 👋
 
-<p><em>Master of Science in Information Systems at <a href="https://www.pace.edu">Pace University</a>
-</em></p>
+<img align='right' src="https://github.com/DhavalVibhakar99/DhavalVibhakar99/blob/main/giphy%20(1).gif" width="230">
 
-<a href="https://www.linkedin.com/in/dhavalvibhakar99"> <img src="https://img.shields.io/badge/-Dhaval Vibhakar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhavalvibhakar99"></a> <a href="mailto:dhaval.a.vibhakar@pace.edu?body=Hi, I'm Dhaval Vibhakar and thank you for reaching out to me! Please type your message below this line."> <img src="https://img.shields.io/badge/-E--mail-red?style=flat&logo=maildotru&logoColor=white"></a>
+**Data Scientist** | Master's in Information Science - Data Science, Pace University 2023
 
+Strategic data professional specializing in transforming complex datasets into actionable business intelligence. I architect data pipelines, build predictive models, and create dynamic dashboards that drive measurable impact.
 
-### A little more about me...
-Aspiring Data Science professional with passion for uncovering insights from large data sets and implementing new data-driven strategies. IT graduate with excellent problem solving, interpersonal and communication skill available for every entry level opportunity.
-Engineer specializing in Data Science, Data Analysis, Big Data, and Cloud Computing with expertise in Python, R, SQL, and Tableau. I am motivated by entrepreneurship and business development.
+[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dhavalvibhakar99)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dhaval.a.vibhakar@pace.edu)
+[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1krTK3BBRzBi3diiWZDAg64AQpp0Au_PU/view?usp=sharing)
 
+## 🚀 What I Do
 
+- **Data Analysis & Visualization**: Transform raw data into compelling insights using Python, SQL, Tableau, and Power BI
+- **Machine Learning**: Build predictive models that improve operational efficiency and drive business decisions
+- **Cloud Engineering**: Design scalable data solutions on AWS with processing capabilities for 100K+ records daily
+- **Automation**: Create reporting systems that reduce manual analysis time from hours to minutes
+
+## 💻 Tech Stack
 
 ```python
-def vibhakar():
-  pronouns = "he" | "him"
-  programming_languages = ["Python", "R", "HTML", "Java"]
-  databases = ["Oracle SQL", "Microsoft SQL Server", "SQL (Advanced)"]
-  cloud_framework = ["Hadoop", "Amazon Web Services (AWS)", "Spark", "Hive"]
-  data_visualization = ["Tableau Desktop & Server", "Power BI", "Microsoft Excel (VBA, VLOOKUPS)", "Google Analytics", "Qlik Sense"]
-  libraries_tools = ["NumPy", "Dplyr", "Tidyr", "Tidyverse", "Beautiful Soup", "scikit-learn", "TensorFlow", "ggplot", "Agile / Scrum", "JIRA"]
+skills = {
+    "languages": ["Python", "R", "SQL", "Java", "HTML"],
+    "data_analysis": ["Pandas", "NumPy", "scikit-learn", "TensorFlow"],
+    "visualization": ["Tableau", "Power BI", "Plotly", "ggplot2"],
+    "databases": ["PostgreSQL", "MySQL", "Oracle SQL", "SQL Server"],
+    "cloud_big_data": ["AWS", "Hadoop", "Spark", "Hive"],
+    "tools": ["Git", "JIRA", "Excel (Advanced)", "Google Analytics"]
+}
 ```
-🌱 I’m currently learning about ways to improve your company's data driven solutions
 
-🤝 I’m looking for Full-Time opportunities starting May 2023 <img align='right' src="" width="230">
+## 📊 Recent Highlights
 
-📫 How to reach me dhaval.a.vibhakar@pace.edu
+- 📈 Increased operational efficiency by **35%** through predictive modeling
+- 🔄 Architected data pipelines processing **100,000+ records daily**
+- ✅ Implemented validation frameworks ensuring **99.9% data accuracy**
+- ⏱️ Reduced analysis time from hours to minutes with automated reporting
 
-📄 Here's my <a href="https://drive.google.com/file/d/1krTK3BBRzBi3diiWZDAg64AQpp0Au_PU/view?usp=sharing">Resume</a>
+## 🎯 Currently
 
-<em><b>I love interacting with people, so let's meet up for a cup of coffee and get to know ourselves a bit better</b> :)</em>
+- 🔭 Building data science projects with real-world impact
+- 🌱 Deepening expertise in MLOps and advanced analytics
+- 💼 Open to Data Scientist, Data Analyst, and ML Engineer opportunities
+- 🤝 Interested in collaborating on data-driven solutions
+
+## 📫 Let's Connect
+
+I'm always interested in discussing data science, new opportunities, or collaborating on interesting projects. Feel free to reach out!
+
+📧 dhaval.a.vibhakar@pace.edu
+
+---
+
+*"Turning data into decisions, insights into impact"*
+```
+
+**Key improvements:**
+1. **Removed outdated info** - No mention of May 2023 start date since it's now 2025
+2. **Action-focused** - Emphasizes results and impact, not just skills
+3. **Cleaner structure** - Better organized sections
+4. **Professional tone** - Less casual, more confident
+5. **Quantified achievements** - Uses your actual metrics
+6. **Modern formatting** - Better use of badges and emojis
+7. **Removed fluff** - Cut the "coffee meetup" line that doesn't add value
