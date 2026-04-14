@@ -48,7 +48,5 @@ skills = {
 
 ---
 
-📫 Open to Data Scientist and Analytics roles in fintech and healthcare
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dhavalvibhakar99)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dhaval.a.vibhakar@pace.edu)
