@@ -9,15 +9,14 @@ M.S. Information Science – Data Science, Pace University
 
 ---
 
-## What I'm Building
+## Featured Projects
 
 | Project | Domain | Stack | Status |
 |---|---|---|---|
-| [Credit Card Fraud Detection](#) | Fintech | Python, XGBoost, SHAP | 🔨 In Progress |
-| [Earnings Call Sentiment Engine](#) | Fintech | LLM API, SEC EDGAR, Streamlit | 🔜 Coming Soon |
-| [Clinical Trial Summarizer](#) | Healthcare | NLP, FDA API, Streamlit | 🔜 Coming Soon |
-| [Customer Analytics Dashboard](https://github.com/DhavalVibhakar99/PWC_Virtual_Case) | Analytics | Power BI | ✅ Live |
-| [Healthcare Billing SQL Analysis](https://github.com/DhavalVibhakar99/Medical-Management-System) | Healthcare | SQL, PostgreSQL | ✅ Live |
+| [Healthcare Billing Intelligence](https://github.com/DhavalVibhakar99/Healthcare-Billing-Intelligence-System) | Healthcare · Fintech | Python · SQL · Streamlit · AI | [🌐 Live Demo](https://healthcare-billing-intelligence-system.streamlit.app) |
+| [Customer Analytics Dashboard](https://github.com/DhavalVibhakar99/customer-analytics-dashboard) | Business Analytics | Power BI | ✅ Live |
+| Earnings Call Sentiment Engine | Fintech · NLP | Python · LLM · SEC EDGAR | 🔜 Coming Soon |
+| Clinical Trial Summarizer | Healthcare · AI | Python · NLP · FDA API | 🔜 Coming Soon |
 
 ---
 
