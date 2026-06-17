@@ -14,7 +14,7 @@ M.S. Information Science – Data Science, Pace University
 | Project | Domain | Stack | Status |
 |---|---|---|---|
 | [Healthcare Billing Intelligence](https://github.com/DhavalVibhakar99/Healthcare-Billing-Intelligence-System) | Healthcare · Fintech | Python · SQL · Streamlit · AI | [🌐 Live Demo](https://healthcare-billing-intelligence-system.streamlit.app) |
-| [Customer Analytics Dashboard](https://github.com/DhavalVibhakar99/customer-analytics-dashboard) | Business Analytics | Power BI | ✅ Live |
+| [Customer Analytics Dashboard](https://github.com/DhavalVibhakar99/Customer_Analytics_Dashboard) | Business Analytics | Power BI | ✅ Live |
 | Earnings Call Sentiment Engine | Fintech · NLP | Python · LLM · SEC EDGAR | 🔜 Coming Soon |
 | Clinical Trial Summarizer | Healthcare · AI | Python · NLP · FDA API | 🔜 Coming Soon |
 
