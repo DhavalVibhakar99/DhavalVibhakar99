@@ -25,7 +25,7 @@ M.S. Information Science – Data Science, Pace University
 ```python
 skills = {
     "languages":     ["Python", "SQL", "R"],
-    "ml":            ["scikit-learn", "XGBoost", "TensorFlow", "SHAP"],
+    "ml":            ["scikit-learn", "XGBoost", "FinBERT", "Transformers", "SHAP"],
     "data_tools":    ["Pandas", "NumPy", "Spark", "Hadoop"],
     "visualization": ["Power BI", "Tableau", "Plotly"],
     "cloud":         ["AWS"],
