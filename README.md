@@ -13,6 +13,7 @@ M.S. Information Science – Data Science, Pace University
 
 | Project | Domain | Stack | Status |
 |---|---|---|---|
+| [Lexorion-Cuad](https://github.com/DhavalVibhakar99/Lexorion-Cuad) | Legal AI · Contract Risk | Python · FastAPI · scikit-learn · OpenRouter · React | [🌐 Live Demo](https://dhavalvibhakar99.github.io/Lexorion-Cuad/demo/) |
 | [Healthcare Billing Intelligence](https://github.com/DhavalVibhakar99/Healthcare-Billing-Intelligence-System) | Healthcare · Fintech | Python · SQL · Streamlit · AI | [🌐 Live Demo](https://healthcare-billing-intelligence-system.streamlit.app) |
 | [Customer Analytics Dashboard](https://github.com/DhavalVibhakar99/Customer_Analytics_Dashboard) | Business Analytics | Power BI | ✅ Live |
 | [Earnings Call Sentiment Engine](https://github.com/DhavalVibhakar99/earnings-sentiment-engine) | Fintech · NLP | Python · FinBERT · SEC EDGAR · yfinance | [🌐 Live Demo](https://huggingface.co/spaces/dhaval99/earnings-sentiment-engine) |
@@ -26,6 +27,7 @@ M.S. Information Science – Data Science, Pace University
 skills = {
     "languages":     ["Python", "SQL", "R"],
     "ml":            ["scikit-learn", "XGBoost", "FinBERT", "Transformers", "SHAP"],
+    "ai_apps":       ["FastAPI", "Streamlit", "OpenRouter", "LLM Guardrails"],
     "data_tools":    ["Pandas", "NumPy", "Spark", "Hadoop"],
     "visualization": ["Power BI", "Tableau", "Plotly"],
     "cloud":         ["AWS"],
