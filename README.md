@@ -6,7 +6,7 @@
 
 <a href="https://github.com/DhavalVibhakar99"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=2A78D6&center=true&vCenter=true&width=640&lines=I+build+data+systems+you+can+trust.;Pipelines+that+reconcile+to+the+cent.;Models+validated+like+a+risk+team+would.;LLMs+where+they+help%2C+code+where+it+decides." alt="I build data systems you can trust." /></a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dhaval--vibhakar.lovable.app-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dhaval-vibhakar.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhaval--vibhakar.lovable.app-111111?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://dhaval-vibhakar.lovable.app](https://dhavalvibhakar.app))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhavalvibhakar99-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhavalvibhakar99)
 [![Email](https://img.shields.io/badge/Email-dhavalvibhakar.data%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhavalvibhakar.data@gmail.com)
 
